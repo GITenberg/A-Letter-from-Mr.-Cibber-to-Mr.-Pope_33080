@@ -1,0 +1,37 @@
+_repo: A-Letter-from-Mr.-Cibber-to-Mr.-Pope_33080
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Koon, Helene
+    alias: Koon, Helene Wickham
+    birthdate: 1925
+    gutenberg_agent_id: '36556'
+    url: http://www.gutenberg.org/2009/agents/36556
+covers:
+- cover_type: archival
+  image_path: 33080-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Cibber, Colley
+    alias: Cibber, C. (Colley)
+    birthdate: 1671
+    deathdate: 1757
+    gutenberg_agent_id: '36193'
+    url: http://www.gutenberg.org/2009/agents/36193
+description: ''
+gutenberg_issued: '2010-07-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33080'
+  lccn: '73621945'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cibber, Colley, 1671-1757 -- Correspondence'
+- !lcsh 'Dramatists, English -- 18th century -- Correspondence'
+- !lcc 'PR'
+- !lcsh 'Pope, Alexander, 1688-1744 -- Correspondence'
+title: A Letter from Mr. Cibber to Mr. Pope
+url: http://www.gutenberg.org/ebooks/33080
